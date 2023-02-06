@@ -1,0 +1,22 @@
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\bin\Debug\Inlämningsuppgift1.exe.config
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\bin\Debug\Inlämningsuppgift1.exe
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\bin\Debug\Inlämningsuppgift1.pdb
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.csproj.AssemblyReference.cache
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.Växel.resources
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.Properties.Resources.resources
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.csproj.GenerateResource.cache
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.csproj.CoreCompileInputs.cache
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.exe
+C:\Users\Ulrik\source\repos\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.pdb
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\bin\Debug\Inlämningsuppgift1.exe.config
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\bin\Debug\Inlämningsuppgift1.exe
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\bin\Debug\Inlämningsuppgift1.pdb
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.csproj.AssemblyReference.cache
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.Växel.resources
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.Properties.Resources.resources
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.csproj.GenerateResource.cache
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.csproj.CoreCompileInputs.cache
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.exe
+C:\Users\Ulrik\source\repos\WindowsFormsVariant Inlämningsuppgift 1\Inlämningsuppgift1\Inlämningsuppgift1\obj\Debug\Inlämningsuppgift1.pdb
